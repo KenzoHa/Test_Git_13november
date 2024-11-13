@@ -1,3 +1,4 @@
-#Dit is een test
+# Dit is een test
 
-#Dit is de eerste aanpassing 
+# Dit is de eerste aanpassing
+print("Hello Kenzo")
